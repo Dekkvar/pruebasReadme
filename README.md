@@ -46,8 +46,8 @@ Este es un ejemplo de color HSL: `hsl(0, 0, 0)`
 
 ## Links
 
-[Este es un link externo a youtube](www.youtube.com)
+[Este es un link externo a youtube](https://www.youtube.com)
 
 [Este es un link interno a este mismo archivo](/README.md)
 
-[Este es un link a una sección de este readme](/README.md#Estilos de texto)
+[Este es un link a una sección de este readme](https://www.github.com/Dekkvar/pruebasReadme/README.md#Estilos-de-texto)
