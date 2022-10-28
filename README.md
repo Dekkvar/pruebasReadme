@@ -91,4 +91,8 @@ Este es un ejemplo de color HSL: `hsl(0, 0, 0)`
 
 Esto es un simple pie de página[^1].
 
+## Emojis
+
+:warning: Estos :arrows_counterclockwise: son :+1: algunos :brain: emojis :upside_down_face:
+
 [^1]: Esta es la referencia al pie de página.
