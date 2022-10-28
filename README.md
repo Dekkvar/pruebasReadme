@@ -50,4 +50,4 @@ Este es un ejemplo de color HSL: `hsl(0, 0, 0)`
 
 [Este es un link interno a este mismo archivo](/README.md)
 
-[Este es un link a una sección de este readme](https://www.github.com/Dekkvar/pruebasReadme/README.md#Estilos-de-texto)
+[Este es un link a una sección de este readme](https://github.com/Dekkvar/pruebasReadme#estilos-de-texto)
